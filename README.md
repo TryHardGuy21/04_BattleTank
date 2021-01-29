@@ -942,4 +942,3 @@ Understand how damping affects the tank.
 
 ### 114 BONUS: Fixing Collider Issues ###
 
-How to workaround the "ConvexElem Invalid" errors.
